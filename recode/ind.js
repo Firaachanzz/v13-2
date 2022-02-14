@@ -1,8 +1,8 @@
 exports.paymentstore = (owner) => {
 return `*PAYMENT STORE*
-Dana : 0821-2424-5042
-Ovo : 0821-2424-5042
-Pulsa : 0838-3081-5715
+Gopay : 0853-3511-1312
+Ovo : Gakda kayaknya
+Pulsa : 0853-3511-1312
 
 Note :
 Jika Sudah Transfer Wajib Kirim
@@ -238,9 +238,9 @@ return`*HAI KAK MAU BENERAN DONASI ATAU TIDAK KAK*
 *SEMOGA TIDAK DILIHAT DOANG*
 
 *PAYMENT BOT*
-DANA: (0821-2424-5042)
-OVO: (0821-2424-5042)
-PULSA: (0838-3081-5715)
+GOPAY: (0853-3511-1312)
+OVO: (Gakda kayanya)
+PULSA: (0853-3511-1312)
 
 *TERIMA KASIH KAK*
 *LOVE YOU😋*`
